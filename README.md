@@ -1,6 +1,6 @@
 # Predicting restaurant tips using predictive analytics on Excel
 
-I have used Regression Analysis (an important type of data analysis) for the prediction of tips.
+I have used Regression Analysis for the prediction of tips.
 
 The dependent variable to be predicted was tips and independent variables which may impact the tips prediction were sex, smoker, day, time, size and total bill.
 
